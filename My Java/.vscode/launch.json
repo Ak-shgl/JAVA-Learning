@@ -5,6 +5,69 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Mypro1",
+            "request": "launch",
+            "mainClass": "Mypro1",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "HW1",
+            "request": "launch",
+            "mainClass": "HW1",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "simple_Intrest",
+            "request": "launch",
+            "mainClass": "simple_Intrest",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "Mix_Multiplication",
+            "request": "launch",
+            "mainClass": "Mix_Multiplication",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "Fifth",
+            "request": "launch",
+            "mainClass": "Fifth",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "Fourth",
+            "request": "launch",
+            "mainClass": "Fourth",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "Third",
+            "request": "launch",
+            "mainClass": "Third",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "My Java_d90126a0"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "My Java_d90126a0"
+        },
+        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",

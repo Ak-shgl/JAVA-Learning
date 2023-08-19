@@ -4,7 +4,7 @@ public class condition_ifelse {
 
     public static void main(String[] args) {
 
-        int age;
+        int age=18;
         System.out.print("Enter Password:= ");
         Scanner obj = new Scanner(System.in);
         int pwd = obj.nextInt();
